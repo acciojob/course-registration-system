@@ -3,7 +3,6 @@
   <groupId>com.driver</groupId>
   <artifactId>course-registration-system</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
    <build>
         <plugins>
             <plugin>
